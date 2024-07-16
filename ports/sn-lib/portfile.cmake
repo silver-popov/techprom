@@ -3,7 +3,7 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL "https://git.sd.avia-cosmos.ru/sn/sn-lib.git"
-    REF "f819f8829c91fe96bcb41de37e74f8d23bdd3959"
+    REF "8cd40503c4470eeb937bf7283be7927db48be6be"
 )
 
 vcpkg_cmake_configure(

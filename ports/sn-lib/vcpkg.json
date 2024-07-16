@@ -1,7 +1,7 @@
 {
   "name": "sn-lib",
   "version": "1.0.3",
-  "port-version": 1,
+  "port-version": 2,
   "homepage": "https://git.sd.avia-cosmos.ru/sn/sn-lib",
   "description": "Межпроектный, библиотечный функционал",
   "dependencies": [
