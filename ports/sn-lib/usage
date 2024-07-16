@@ -1,0 +1,4 @@
+sn-lib provides CMake targets:
+
+find_package(sn-lib CONFIG REQUIRED)
+target_link_libraries(main PRIVATE sn-lib)
