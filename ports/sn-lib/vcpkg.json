@@ -1,9 +1,9 @@
 {
   "name": "sn-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "port-version": 0,
   "homepage": "https://git.sd.avia-cosmos.ru/sn/sn-lib",
-  "description": "Меж проектный, библиотечный функционал",
+  "description": "Межпроектный, библиотечный функционал",
   "dependencies": [
     {
       "name" : "vcpkg-cmake",
